@@ -71,9 +71,6 @@
 ;(setq leuven-scale-volatile-highlight nil)
 
 (load-theme 'srcery t)
-
-
-
 ;;顶部TAB
 (require 'centaur-tabs)
 (centaur-tabs-mode t)
