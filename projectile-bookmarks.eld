@@ -1,0 +1,1 @@
+("~/MyCode/org/hello-emacs/" "~/kof97react/" "~/.emacs.d/" "~/dwm-6.4/" "~/neofetch-themes/" "~/MyCode/elfsh/")

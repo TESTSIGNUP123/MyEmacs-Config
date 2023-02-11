@@ -1,0 +1,8 @@
+cd ..
+ls 
+cd lisp/
+touch eline.el
+mkdir src tools config
+ls 
+mv eline.el  src/
+ls 
